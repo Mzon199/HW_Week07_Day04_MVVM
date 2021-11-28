@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageViewL" type="id" />
+    <item name="textViewEmailL" type="id" />
+    <item name="textViewNameL" type="id" />
+    <item name="RecyclerView" type="id" />
+</resources>
